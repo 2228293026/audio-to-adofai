@@ -242,8 +242,32 @@ Customize smart encoding behavior / 自定义智能编码行为：
 
 ## License / 许可证
 
-Educational/Entertainment purposes only. / 仅用于教育/娱乐目的。
+MIT License / MIT许可证
+
+Copyright (c) 2025
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+本软件按"原样"提供，不包含任何形式的保证，包括但不限于对适销性、特定用途适用性和非侵权性的默示保证。作者或版权持有人不对任何索赔、损害或其他责任承担责任，无论是基于合同、侵权还是其他理由。
 
 ## Credits / 致谢
 
-Ported from original Python implementation with permission. / 经许可从原始Python实现移植。
+Original Python implementation: 4K to ADOFAI Converter (main.py). / 原始Python实现：4K to ADOFAI Converter (main.py)。
+
+This is a complete TypeScript rewrite with additional audio conversion features. / 这是完整的TypeScript重写版本，并增加了音频转换功能。
